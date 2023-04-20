@@ -3,7 +3,7 @@ name: CI to Docker Hub222
 on:
   push:
     tags:
-      - "v*.*.*"
+      - 'v*'
 
 jobs:
 
